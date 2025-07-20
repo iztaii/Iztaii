@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👨‍💻 Iztai Ilias | Изтай Ильяс Ерланулы
 
-<!--
-**iztaii/Iztaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Coursera Certificate
 
-Here are some ideas to get you started:
+**Python Scripting Fundamentals**
+[🔗 Coursera Certificate Link](https://coursera.org/share/ed4d96c9d4dae660f52ffdf8b93072a4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Образование
+
+### Среднее
+
+2010–2019 гг. р. Махамбет, ср. школа имени Е. Агелеуова
+
+### Среднее специальное
+
+2019–2023 гг. Атырауский политехнический высший колледж имени С. Мукашева
+Специальность: **1304000-Вычислительная техника и программное обеспечение (по видам)**
+Квалификация: **130404 3 - Техник-программист**
+Форма обучения: очная
+
+### Высшее
+
+2023–2026 гг. Атырауский университет имени Х. Досмухамедова
+Специальность: **Администрирование систем и сетей (6B06103)**
+Форма обучения: **Сокращённое очное (3 года)**
+
+---
+
+## 🎓 Сертификаты
+
+* WorldSkills Atyrau 2021 — «Сетевое и системное администрирование»
+* WorldSkills Atyrau 2022 — «Сетевое и системное администрирование»
+
+---
+
+## 💼 Опыт работы
+
+* **Январь 2023 – июль 2023** — Мастер IT
+* **2023 – 2025** — Техник-программист в ТОО «БИО-дезинфекция»
+
+---
+
+## 🌐 Языки
+
+* Русский — свободно
+* Казахский — основной
+
+---
+
+## 📚 Навыки
+
+* Cisco Packet Tracer
+* Windows Server
+* EVE-NG
+* Python
+* HTML / CSS
+
+---
+
+## 📅 Личная информация
+
+* Дата рождения: **10.12.2004**
+* Национальность: Казах
+* Семейное положение: не женат
+* Адрес: г. Атырау, мкр. Алиев-Курмангазы, ул. 10, дом 41
+* Телефон: +7 (702) 973-52-04
+* E-mail: [Iztai\_ilyas04@mail.ru](mailto:Iztai_ilyas04@mail.ru), [Iztaiilias099@gmail.com](mailto:Iztaiilias099@gmail.com)
